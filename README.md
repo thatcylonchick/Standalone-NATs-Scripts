@@ -1,5 +1,3 @@
-Here’s a clean README draft that fits the vibe of a public “random useful NATs tools” repo without sounding overly corporate:
-
 Standalone NATs Scripts
 
 A collection of standalone NATs helper scripts, probes, test tools, and random utilities I’ve written while working with NATs integrations.
