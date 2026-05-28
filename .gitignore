@@ -1,0 +1,30 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local config and credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+
+# Local output
+*.log
+*.tmp
+output/
+downloads/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
